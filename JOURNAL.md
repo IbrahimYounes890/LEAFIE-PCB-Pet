@@ -61,4 +61,6 @@ P.S.S I added 30 minutes since that was the time between both of the time-lapses
 
 **2.17h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/907b7315-4516-442e-9708-b31b873fbc33/video.mp4)
