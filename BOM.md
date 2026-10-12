@@ -18,7 +18,7 @@
 | [Switches](https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+3.65%21USD+3.65%21%21USD+3.65%21%21%21%4021030dcd17917744778103932e108e%2112000045838677521%21ct%21CA%218284808141%21%211%210%21) | For switches input to pet | 1 | $1.19 | $1.19 | [AliExpress](https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+3.65%21USD+3.65%21%21USD+3.65%21%21%21%4021030dcd17917744778103932e108e%2112000045838677521%21ct%21CA%218284808141%21%211%210%21) |
 | [MPU6050 Module 6 Axis IMU Gyroscope Accelerometer](https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+1.84%21USD+1.66%21%21USD+1.66%21%21%21%4021030dcd17917747481075792e108e%2112000046422332178%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) | For the motion control | 1 | $1.66 | $1.66 | [AliExpress](https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+1.84%21USD+1.66%21%21USD+1.66%21%21%21%4021030dcd17917747481075792e108e%2112000046422332178%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
 | **Parts subtotal** | — | — | — | **$10.75** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.75** | — |
+| **Tax & shipping** | — | — | — | **$8.93** | — |
+| **Total** | — | — | — | **$19.68** | — |
 
-$19.25 left of the tier's funding.
+$10.32 left of the tier's funding.
