@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-09 – October 9: Kicad Frustrations](#2026-10-09-october-9-kicad-frustrations)
-2. [2026-10-11 – Work session](#2026-10-11-work-session)
+2. [2026-10-11 – Today I finished my layout for my PCB!](#2026-10-11-today-i-finished-my-layout-for-my-pcb)
 3. [2026-10-11 – Work session](#2026-10-11-work-session)
 
 ## Design
@@ -58,11 +58,23 @@ P.S.S I added 30 minutes since that was the time between both of the time-lapses
 
 [Timelapse](https://lookout.hackclub.com/api/media/0617f90f-fc20-424a-9e52-4bfe36d98b75/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Today I finished my layout for my PCB!
 
 **2.17h**
 
-Work session
+Today I finished my layout for my PCB!
+
+I watched a youtube video first, to make sure I know a couple tips and tricks before I started routing, once I had some knowledge, I began working on routing the whole board!
+
+I also used the ground fill turorial: https://www.youtube.com/watch?v=DNTgrTukltw
+
+Then I added my custom images of Canada all over the PCB to customize to Canada since I am a proud Canadian. ( I promise it's not that cold). It took a while to learn how to do it, google helped me out though!
+
+![Screenshot 2026-10-11 201538](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/762ffe9e8d997639deb6f193c26eb84b537ee83be9d0d296e4c4bd8f278d832a.png)
+
+I'm ready to start working on the Firmware!
+
+![Canadian Flag](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/57d1715ca5c81b64ed0c2508dd72a94517e76626b5926c2a6f35e28958aea184.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/907b7315-4516-442e-9708-b31b873fbc33/video.mp4)
 
