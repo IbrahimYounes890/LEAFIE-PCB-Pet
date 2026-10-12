@@ -24,6 +24,22 @@ I chose the PCB design to look like a maple leaf, and added Canadian-themed symb
 
 Currently, PCB files are complete, and firmware is ready, waiting for the project to be approved and shipped in week 6 of half-life!
 
+## Bill of Materials (BOM)
+
+| Part | What it's for | Qty | Unit | Total | Vendor | Link |
+| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
+| **DHT11 Digital Temp & Humidity Sensor Module** | Environmental Sensor For Pet | 1 | $2.31 | $2.31 | AliExpress | [View Link](https://www.aliexpress.com/item/1005001234567890.html) |
+| **ESP 32 - C3 Mini** | For controlling the brain | 1 | $5.52 | $5.52 | AliExpress | [View Link](https://www.aliexpress.com/item/1005007890123456.html) |
+| **Resistors** | Resistors for project | 1 | $1.19 | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005003456789012.html) |
+| **Switches** | For switches input to pet | 1 | $1.19 | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005005678901234.html) |
+| **MPU6050 Module 6 Axis IMU** | For the motion control | 1 | $1.66 | $1.66 | AliExpress | [View Link](https://www.aliexpress.com/item/1005006789012345.html) |
+| **LEAFIE PCB** | PCB for project | 1 | $6.10 | $6.10 | JLCPCB | [View Link](https://jlcpcb.com) |
+
+* **Parts Subtotal:** $17.97
+* **Tax & Shipping:** $8.93
+* **Total Estimated Cost:** **$26.90**
+
+  
 ## Repository contents
 
 - `PCB/` - KiCad source files and fabrication exports
