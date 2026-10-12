@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.74h | 3 |
+| Week 1 | Tier 1 | 7.74h | 3 |
 
 ## Contents
 
 1. [2026-10-09 – October 9: Kicad Frustrations](#2026-10-09-october-9-kicad-frustrations)
 2. [2026-10-11 – Today I finished my layout for my PCB!](#2026-10-11-today-i-finished-my-layout-for-my-pcb)
-3. [2026-10-11 – Work session](#2026-10-11-work-session)
+3. [2026-10-11 – Today I was finishing up and polishing up my repository on GitHub!](#2026-10-11-today-i-was-finishing-up-and-polishing-up-my-repo)
 
 ## Design
 
@@ -78,8 +78,23 @@ I'm ready to start working on the Firmware!
 
 [Timelapse](https://lookout.hackclub.com/api/media/907b7315-4516-442e-9708-b31b873fbc33/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Today I was finishing up and polishing up my repository on GitHub!
 
-**1.22h**
+**2.22h**
+
+Today I was finishing up and polishing up my repository on GitHub!
+
+I went through the firmware, which was pretty easy to do, but then I got to the GitHub part, and things got way harder.
+
+I had to learn how to use GitHub repositories from scratch, but it was a good working experience!
+I ended my Timelapse short, since I thought I was done....
+
+Not True!! It took me a long time to do my BOM too.
+
+![Screenshot 2026-10-11 232713](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/312341c6904196dcbb055dddaf1ce065b427f1effef3910af61f20b68172cd91.png)
+
+![Screenshot 2026-10-11 232740](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CSRBTfO1gnf3OnVHBGadYvTR5GkJjHAY/74faa8cf0b74d956ab7ff70f94b34daf84a4d277b69b48a2d97199173d1de45e.png)
+
+Anyways, very stressful, but fun at the same time! I'm ready for week 2!
 
 [Timelapse](https://lookout.hackclub.com/api/media/818b2837-ca2b-4463-b5fa-2146d7da50cf/video.mp4)
