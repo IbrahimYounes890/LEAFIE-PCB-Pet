@@ -36,12 +36,12 @@ Currently, PCB files are complete, and firmware is ready, waiting for the projec
 | **Resistors (comes with mutliple values)** | Resistors for project | 300 | ? | $1.19 | AliExpress |[View Link](https://www.aliexpress.com/item/1005011772534173.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+4.20%21USD+1.19%21%21USD+1.19%21%21%21%402101e75417935899983408413e1096%2112000056500803485%21ct%21CA%218284808141%21%211%210%21)|
 | **Switches** | For switches input to pet | 10 | ? | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+4.13%21USD+4.13%21%21USD+4.13%21%21%21%402101e75417935899983408413e1096%2112000045838677521%21ct%21CA%218284808141%21%211%210%21) |
 | **MPU6050 Module 6 Axis IMU** | For the motion control | 1 | $2.78 | $1.66 | AliExpress | [View Link](https://www.aliexpress.com/item/1005012722676424.html?spm=a2g0o.cart.0.0.3fcc38da5d1nRa&mp=1&pdp_npi=6%40dis%21USD%21USD+3.57%21USD+2.78%21%21USD+2.78%21%21%21%4021032e4e17935918278648994e0ece%2112000059167286842%21ct%21CA%218284808141%21%211%210%21) |
-| **LEAFIE PCB** | PCB for project | 1 | free with coupon| $0 | JLCPCB | [View Link](https://jlcpcb.com) |
+| **LEAFIE PCB** | PCB for project | 1 | with coupon| $6.10 | JLCPCB | [View Link](https://jlcpcb.com) |
 | **0.96 OLED** | Visual output | 1 | $4.16 | $4.16 | AliExpress | [View Link](http://aliexpress.com/item/1005006141235306.html?spm=a2g0o.cart.0.0.710b38daroD91k&mp=1&pdp_npi=6%40dis%21USD%21USD+4.16%21USD+4.16%21%21USD+4.16%21%21%21%4021030cd817935910208061059e0f72%2112000037894450874%21ct%21CA%218284808141%21%211%210%21)|
 
-* **Parts Subtotal:** $19.02
+* **Parts Subtotal:** $24.59
 * **Tax & Shipping:** $4.39
-* **Total Estimated Cost:** **$23.41**
+* **Total Estimated Cost:** **$28.98**
 
   
 ## Repository contents
