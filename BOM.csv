@@ -1,7 +1,9 @@
-Part,What it's for,Qty,Unit,Total,Vendor,Product Link
-DHT11 Digital Temp & Humidity Sensor Module,Environmental Sensor For Pet,1,2.31,2.31,AliExpress,https://www.aliexpress.com/item/1005001234567890.html
-ESP 32 - C3 Mini,For controlling the brain,1,5.52,5.52,AliExpress,https://www.aliexpress.com/item/1005007890123456.html
-Resistors,Resistors for project,1,1.19,1.19,AliExpress,https://www.aliexpress.com/item/1005003456789012.html
-Switches,For switches input to pet,1,1.19,1.19,AliExpress,https://www.aliexpress.com/item/1005005678901234.html
-MPU6050 Module 6 Axis IMU Gyroscope Accelerometer,For the motion control,1,1.66,1.66,AliExpress,https://www.aliexpress.com/item/1005006789012345.html
-LEAFIE PCB,PCB for project,1,6.1,6.1,JLCPCB,https://jlcpcb.com
+Item,Qty,Supplier,Cost/item,Total Cost,link
+DHT11 Digital Temp & Humidity Sensor Module,1,AliExpress,$2.31,$2.31,https://www.aliexpress.com/item/1005008818897051.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+2.31%21USD+2.31%21%21USD+2.31%21%21%21%4021030dcd17917744778103932e108e%2112000046802736832%21ct%21CA%218284808141%21%211%210%21
+ESP 32 - C3 Mini,1,AliExpress,$5.52,$5.52,https://www.aliexpress.com/item/1005007239162635.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+18.41%21USD+5.52%21%21USD+5.52%21%21%21%4021030dcd17917744778103932e108e%2112000039916348342%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+Resistors,1,AliExpress,$1.19,$1.19,https://www.aliexpress.com/item/1005011772534173.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+4.17%21USD+1.19%21%21USD+1.19%21%21%21%4021030dcd17917744778103932e108e%2112000056500803485%21ct%21CA%218284808141%21%211%210%21
+Switches,1,AliExpress,$3.65,$3.65,https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+3.65%21USD+3.65%21%21USD+3.65%21%21%21%4021030dcd17917744778103932e108e%2112000045838677521%21ct%21CA%218284808141%21%211%210%21
+MPU6050 Module 6 Axis IMU Gyroscope Accelerometer,1,AliExpress,$1.66,$1.66,https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.cart.0.0.656b38damWk3Yc&mp=1&pdp_npi=6%40dis%21USD%21USD+1.84%21USD+1.66%21%21USD+1.66%21%21%21%4021030dcd17917747481075792e108e%2112000046422332178%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+LEAFIE PCB,1,JLCPCB,$6.10,$6.10,https://cart.jlcpcb.com
+OLED Display,1,AliExpress,$1.19,$1.19,https://www.aliexpress.com/item/1005006141235306.html?spm=a2g0o.cart.0.0.3fcc38daLbR85T&mp=1&pdp_npi=6%40dis%21USD%21USD%204.16%21USD%204.16%21%21USD%204.16%21%21%21%4021030cd817936743934632826e0d84%2112000037894450874%21ct%21CA%218284808141%21%211%210%21
+Estimated total shipping,1,,,$8.93,
