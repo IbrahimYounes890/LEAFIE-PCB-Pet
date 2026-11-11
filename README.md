@@ -1,6 +1,6 @@
- # LEAFIE
+# LEAFIE
 
-<img width="1678" height="895" alt="Screenshot 2026-10-11 201538" src="https://github.com/user-attachments/assets/dd25e9e6-da6c-4caa-82a2-ef61b1923e82" />
+<img width="1423" height="837" alt="Screenshot 2026-11-10 220218" src="https://github.com/user-attachments/assets/8520fe37-44a4-4455-ba56-48c3a35ff706" />
 
 
 This is my Starbie-inspired PCB pet project --> LEAFIE!
